@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Build A Search Box With Auto Recommendation in Reactjs</title>
@@ -14,8 +23,8 @@
 <?php
 include 'Navbar.php'
 ?>
-<section>
-        <div class="container-fluid  " style="height: 25vh; position: relative;background-color: black;">
+ <section>
+   <div class="container-fluid  " style="height: 25vh; position: relative;background-color: black;">
 
             <!-- <center>
                 <h2 id="mainHeading"style="font-size:40px" > Build A Search Box With Auto Recommendation in Reactjs</h2>
@@ -39,35 +48,35 @@ include 'Navbar.php'
     </section>
     <section class="mt-5">
         <div class="container mt-5">
- <h3 style="line-height: 2em; font-weight: 400;">
+ <h4 style="line-height: 2em; font-weight: 400;">
     The Auto Recommendation  Search Box is a search box with the input text to take search input and show all the related data to it. For doing all this operation the search box input filter all the data and show the result. For the data I have used dummy api with the data result of 30 objects. And all the working search box is live on CodeSandBox and the link is given below.
   <br>
-</h3>
-<h4>
+</h4>
+<h5>
      Link :
 <a href=" https://47xids-3000.preview.csb.app/" target="_blank">
 
     https://47xids-3000.preview.csb.app/
 </a>
     <br>
-</h4>
-    <h4>
+</h5>
+    <h5>
         
      dummy api :
      <a href="https://dummyjson.com/products" target="_blank">
          https://dummyjson.com/products
 
      </a> 
-</h4>
+</h5>
     <br><br><br>
     <h3 style="font-weight: 700;">
         Creating React Application in CodeSandBox: 
     </h3> <br>
-  <h3 style="line-height: 2em; font-weight: 400;">
+  <h4 style="line-height: 2em; font-weight: 400;">
     To start building this search box we can install all the npm modules or we can make this on CodeSandBox , and for this project I will be working on codesandbox.
 <br><br>
 these are the all files and dependencies  
-</h3>
+</h4>
 <div class="container">
     <div class="row">
         <div class="col-md-10 col-sm-12">
@@ -77,14 +86,14 @@ these are the all files and dependencies
     </div>
 </div>
 <br><br><br>
-<h4  style="line-height: 2em; font-weight: 600;">
+<h5  style="line-height: 2em; font-weight: 600;">
     Now Start Coding..
-</h4>
+</h5>
 <div class="container">
     <div class="row">
         <div class="col-md-8 col-sm-12">
             <pre>
-                <code style="font-size: 23px;">
+                <code style="font-size: 20px;">
             import "./styles.css";
             import { useEffect, useState } from "react";
             
@@ -135,7 +144,7 @@ these are the all files and dependencies
     </div>
 </div>
 <Br><Br><Br>
-    <h4 style="font-weight:500">Result</h4>
+    <h5 style="font-weight:500">Result</h5>
     <div class="container">
     <div class="row">
         <div class="col-md-10 col-sm-12">
@@ -144,9 +153,7 @@ these are the all files and dependencies
     </div>
     </div>
         </div>
- 
-    <!-- <button class="btn" style=" margin-left: 100px;">Share</button> -->
-    </section>
+</section>
     <?php
 include 'Footer.php'
     ?>

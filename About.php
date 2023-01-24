@@ -2,6 +2,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tech Tutor</title>
@@ -18,7 +27,7 @@ include 'Navbar.php'
             <center>
               <h2 id="mainHeading4">OOPS...This Page is Under Maintenance
                 <br>
-                <Span><a class="btn" href="./Blogs.html" style="background-color: #f00606; color: white; border-radius: 0px;">Checkout Our Blogs</a></Span>
+                <Span><a class="btn" href="./Blogs.php" style="background-color: #f00606; color: white; border-radius: 0px;font-size:20px">Checkout Our Blogs</a></Span>
               </h2>
             </center>
         </div>

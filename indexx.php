@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="./media/TW.png">
@@ -137,28 +146,28 @@
                     <div class="col-md-4">
                         <br>
                         <h3>Reach Us</h3><br><br>
-                        <p style="font-size:20px">Indian Institute of Technology Delhi,</p>
-                        <p style="font-size:20px">Hauz Khas, New Delhi, Delhi 110016</p><br><br>
+                        <p>Indian Institute of Technology Delhi,</p>
+                        <p>Hauz Khas, New Delhi, Delhi 110016</p><br><br>
                         <!-- <p><span><i class="bi bi-telephone-fill"></i>&nbsp;</span> +91 9521538903</p> -->
-                       <p style="font-size:20px"> <a style="text-decoration: none; color: white;" href="mailto:niteshsaini5112001@gmail.com"><span><i class="bi bi-envelope-fill"></i>&nbsp;</span> niteshsaini5112001@gmail.com</a></p><br>
-                        <p style="font-size:20px"><a style="text-decoration: none; color: white;"  href="https://www.linkedin.com/in/nitesh-saini-80893b1a0/?originalSubdomain=in" target="_blank"><span><i class="bi bi-linkedin"></i>&nbsp;</span> nitesh saini</a></p><br>
-<p style="font-size:20px"><a style="text-decoration: none; color: white;"  href="https://github.com/nitesh047" target="_blank"><span><i class="bi bi-github"></i>&nbsp;</span> nitesh047</a></p>
+                       <p> <a style="text-decoration: none; color: white;" href="mailto:niteshsaini5112001@gmail.com"><span><i class="bi bi-envelope-fill"></i>&nbsp;</span> niteshsaini5112001@gmail.com</a></p><br>
+                        <p><a style="text-decoration: none; color: white;"  href="https://www.linkedin.com/in/nitesh-saini-80893b1a0/?originalSubdomain=in" target="_blank"><span><i class="bi bi-linkedin"></i>&nbsp;</span> nitesh saini</a></p><br>
+<p><a style="text-decoration: none; color: white;"  href="https://github.com/nitesh047" target="_blank"><span><i class="bi bi-github"></i>&nbsp;</span> nitesh047</a></p>
                     </div>
                     <div class="col-md-4">
                         <br>
                         <h3>Explore </h3><br><br><br>
-                       <p style="font-size:20px"> <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span><span>Previous Projects</p><br>
-                         <p style="font-size:20px"> <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Ongoing Projects</p><br>
-                         <p style="font-size:20px"> <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Testimonials</p><br>
-                         <p style="font-size:20px"> <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Current Plans</p><br>
-                         <p style="font-size:20px"> <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Upcoming Plans</p>
+                      <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span><span>Previous Projects</p><br>
+                        <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Ongoing Projects</p><br>
+                        <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Testimonials</p><br>
+                        <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Current Plans</p><br>
+                        <span><i class="bi bi-caret-right-fill"></i>&nbsp;</span>Upcoming Plans</p>
 
                     </div>
                     <div class="col-md-4">
                         <br>
                         <h3>New Delhi</h3>
                         <center>
-                             <p style="font-size:20px"  id="timee"></p>
+                             <p  id="timee"></p>
                         </center>
                         <div id="map"></div><br>
 

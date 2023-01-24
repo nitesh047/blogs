@@ -7,17 +7,7 @@
     font-size: 23px;
     margin-right: 25px;
 }
-
-.contain1{
-    background-image: url(https://media.istockphoto.com/photos/web-programming-functions-on-laptop-on-laptop-it-business-python-code-picture-id1142539785?k=20&m=1142539785&s=612x612&w=0&h=vlE7qz6ikf4e8V-Thm6rNj0_h7R2Hmgn0S3ZCmle8DY=);
-background-size: cover;
- height: 70vh;
- background-attachment: scroll;
-}
-#mainHeading{
-   color: #f00606;
-   font-size: 87px; 
-}
+ 
 #mainHeading2{
    color: #f00606;
     margin-left: 20%;
@@ -42,22 +32,10 @@ background-size: cover;
   font-size:50px
 }
  
-
-.cardd div {
-    margin: 0 20px 20px 50px;
-    width: 300px;
-    background: #eef0fc9c;
-    border-radius: 10px;
-    display: flex;
-    flex-flow: row nowrap;
-    justify-content: space-evenly;
-    align-items: center;
-    padding: 10px;
-}
  
 #blogCard{
     /* border: 1px sol  id; */
-    width: 65%;
+    width: 60%;
     padding: 25px;  
 }
 @media screen and (max-width: 764px) {

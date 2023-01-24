@@ -2,23 +2,32 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Tech Tutor</title>
-    <link rel="icon" type="image/png" href="./media/TW.png">
      <link rel="stylesheet" href="./index.css">
+     <link rel="icon" type="image/png" href="./media/TW.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
   </head>
-  <?php
+ <?php
 include 'Navbar.php'
-  ?>
+ ?>
 <section>
         <div class="container-fluid" style="height: 91vh; position: relative ;background-color: black; ">
 
             <center>
               <h2 id="mainHeading4">OOPS...This Page is Under Maintenance
                 <br>
-                <Span><a class="btn" href="./Blogs.html" style="background-color: #f00606; color: white; border-radius: 0px;">Checkout Our Blogs</a></Span>
+                <Span><a class="btn" href="./Blogs.php" style="background-color: #f00606; color: white; border-radius: 0px;font-size:20px">Checkout Our Blogs</a></Span>
               </h2>
             </center>
         </div>

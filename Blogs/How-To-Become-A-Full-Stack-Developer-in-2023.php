@@ -1,6 +1,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>How To Become A Full Stack Developer in 2023</title>
@@ -14,7 +23,7 @@
   include 'Navbar.php'
    ?>
 
-<section>
+ <section>
         <div class="container-fluid  " style="height: 25vh; position: relative;background-color: black;">
 
             <!-- <center>
@@ -105,21 +114,21 @@ Also learn about some databases like MySQL, MongoDB, PostgreSQL. etc.
      Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Project  from start to finish. The App is called "Memories" and it is a simple social media MERN application that allows users to post interesting events that happened in their lives.
 <br>
 <a class="btn btn-sm" href="https://www.youtube.com/watch?v=ngc9gnGgUdA&list=PL6QREj8te1P7VSwhrMf3D3Xt4V6_SRkhu&ab_channel=JavaScriptMastery
-" target="_blank" style="background-color: black; color: white;font-size:16px">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
+" target="_blank" style="background-color: black; color: white;">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
         <br><br>
         <span style="font-weight: 600;"> 2. &nbspSocial Media App (React Development) </span>
      <br>
      Social media website design using React, HTML, and CSS. React social media app using React Hooks, Context API, Dark Mode, Responsive design.
 <br>
 <a class="btn btn-sm" href="https://www.youtube.com/watch?v=FweHcYHkt9A&list=PLj-4DlPRT48lNpLxPbQ_oBnK2jBTJzfxX&ab_channel=LamaDev
-" target="_blank" style="background-color: black; color: white;font-size:16px">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
+" target="_blank" style="background-color: black; color: white;">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
         <br><br>
         <span style="font-weight: 600;"> 3. &nbspE-Commerce Website (full stack development in php) </span>
      <br>
      Complete E-Commerce including complete user and admin dashboard. Advance topics like payment options,making websites responsive ,sending mails to users and online deployment of projects.
 <br>
 <a class="btn btn-sm" href="https://www.youtube.com/watch?v=kIOTtRf9Drk&list=PL-h5aNeRKouEaGrQj6EXaqZsagEphQboI&ab_channel=StepbyStep
-" target="_blank" style="background-color: black; color: white;font-size:16px">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
+" target="_blank" style="background-color: black; color: white;">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
         <br><Br>
             <span style="font-weight: 600;"> 4. &nbspBusiness Management System (CMS Website Script) using PHP MySQL </span>
      <br>
@@ -127,13 +136,13 @@ Also learn about some databases like MySQL, MongoDB, PostgreSQL. etc.
 
 <br>
 <a class="btn btn-sm" href="https://www.youtube.com/watch?v=qFqmCM271ek&ab_channel=CampCodes
-" target="_blank" style="background-color: black; color: white;font-size:16px">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
+" target="_blank" style="background-color: black; color: white;">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
         <br><Br>
             <span style="font-weight: 600;"> 5. &nbspClones of different Web Apps like Netflix , Ola, Hotstar, Flipkart/Amazon etc.
  </span>
 <br>
 <a class="btn btn-sm" href="https://www.youtube.com/watch?v=qFqmCM271ek&ab_channel=CampCodes
-" target="_blank" style="background-color: black; color: white; font-size:16px">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
+" target="_blank" style="background-color: black; color: white;">Watch Video Now &nbsp<Span><i style="color: white; font-weight: 600;" class="bi bi-box-arrow-up-right"></i></Span></a>
         </h4>
 </div>
     </section>

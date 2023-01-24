@@ -2,6 +2,15 @@
 <!doctype html>
 <html lang="en">
   <head>
+    <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QC9D33C12H"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QC9D33C12H');
+</script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/png" href="./media/TW.png">
@@ -30,9 +39,9 @@ include 'Navbar.php'
                       Build A Search Box With Auto Recommendation in Reactjs
                   </h2>
                   
-                  <h5>
+                  <h6>
                       The Auto Recommendation  Search Box is a search box with the input text to take search input and show all the related data to it. For doing all this operation the search box input filter all the data and show the result. For the data I have used dummy api with the data result of 30 objects. And all the working search box is live on CodeSandBox and the link is given below.
-                  </h5>
+                  </h6>
                   <a href="./Blogs/Build-A-Search-Box-With-Auto-Recommendation-in-Reactjs.php" class="btn" style="background-color: #ff0000; color: white;border-radius: 0;font-size:17px">Continue Reading</a>
               </div>
 
@@ -43,9 +52,9 @@ include 'Navbar.php'
                       How To Become A Full Stack Developer in 2023
                   </h2>
                   
-                  <h5>
+                  <h6>
                      A full stack developer needs to take care of the frontend and backend both sides. He needs to make all the frontend components and also all the server side components. So basically he needs to take care of the whole application with end to end functionalities.
-                  </h5>
+                  </h6>
                   <a href="./Blogs/How-To-Become-A-Full-Stack-Developer-in-2023.php" class="btn" style="background-color: #ff0000; color: white;border-radius: 0;font-size:17px">Continue Reading</a>
               </div>
 
