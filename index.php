@@ -59,6 +59,28 @@ include 'Navbar.php'
               </div>
 
             </div>
+            <div class="col-md-12">
+              <div id="blogCard">
+                  <h2 style="font-weight: 700;">
+                      How To Start With Web Development
+                  </h2>
+                  
+                  <h6>
+                    If you want to learn web development, from where 
+do you even start? It's hard to find the right
+
+advice without suffering from information overload.
+That's why We've created this beginner's roadmap!
+
+it lays out all the basics you need to learn 
+web development we're going to go through each
+step so by the end of this guide you'll have an
+understanding of the basics of web development.
+                  </h6>
+                  <a href="./Blogs/How-To-Start-With-Web-Development.php" class="btn" style="background-color: #ff0000; color: white;border-radius: 0;">Continue Reading</a>
+              </div>
+
+            </div>
           </div>
         </div>
     </section>
